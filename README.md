@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yessin-Jarraya
-- 👀 I’m interested in Mobile Development,
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on "Making any interesting app "
+- 👀 I’m interested in Software & Mobile Developpment
+- 🌱 I’m currently learning Flutter & Python.
+- 💞️ I’m looking to collaborate on "Making any fun & interesting app "
 - 📫 How to reach me yessinjarraya1025@gmail.com
 
 <!---
